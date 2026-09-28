@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("I am learning Git, one commit at a time.\n");
+    printf("Feature branch: I can develop ideas separately.\n");
     return 0;
 }

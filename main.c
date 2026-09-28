@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("I am learning Git, one commit at a time.\n");
+    printf("Main branch: I keep a stable working version.\n");
     return 0;
 }
